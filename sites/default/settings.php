@@ -215,9 +215,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'dr7',
-      'username' => 'root',
-      'password' => '',
+      'database' => 'civil',
+      'username' => 'civil',
+      'password' => 'civil',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
